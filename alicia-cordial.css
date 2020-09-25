@@ -1,0 +1,120 @@
+body {
+    background-color: azure;
+    background-image: url("laplateforme.png");
+    background-repeat:no-repeat;
+    background-position:right top;
+    background-size: 10%;
+}
+
+
+h2
+{
+    color: gray;
+    background-color: lightblue;
+    text-align: center;
+}
+
+.general
+{
+ padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+
+p
+{
+    direction: rtl;
+    font-family: serif;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+}
+
+h2
+{
+    text-decoration: underline;
+    font-style: oblique;
+}
+
+
+.présentation {
+    text-align: center;
+    font-family: fantasy;
+}
+
+
+.nom {
+    color: blue;
+        width: 350px;
+   border: 10px solid blue;
+    text-align: center;
+    text-shadow: 2px 2px 5px black;
+    border-radius: 10px;
+}
+    
+.arrivee
+{
+color: darkmagenta;    
+
+}
+
+.projet
+{
+    color: crimson;
+}
+
+
+.parcours
+{
+    text-align: justify;
+    font-family:inherit;
+}
+.par
+{
+    color: darksalmon;
+    font-family: sans-serif
+}
+
+.moi
+{
+    color: blueviolet;
+}
+
+
+a:visited{
+    color: black;
+}
+
+a:link{
+    color: darkblue;
+}
+
+a:hover{
+    color: beige;
+}
+
+a:active{
+    color:green;
+}
+
+
+a:hover {
+  background-color: gold;
+}
+
+
+.button {
+  background-color: gray;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+    border-radius: 10px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    text-shadow: white;
+}

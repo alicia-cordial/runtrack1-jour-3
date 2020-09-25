@@ -1,0 +1,78 @@
+body
+{
+    background-color: skyblue;
+    background: url("fondmer.jpg") fixed no-repeat;
+    background-size: 120%;
+    border-style: hidden;
+}
+
+.nom
+{
+        width: 350px;
+     border: 5px solid yellow;
+    text-align: center;
+}
+
+
+h1
+{
+    color: royalblue;
+    font-size: 30px;
+    text-align: center;
+    margin-left: 20px;
+    text-shadow: 2px 2px 5px black;
+    border-radius: 10px;
+}
+
+h2
+{
+     text-decoration: underline;
+}
+p
+{
+    text-align: center;
+        color: lightcyan;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    font-family: sans-serif;
+}
+
+.general
+{
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+
+.présentation 
+{
+    text-align: right;
+        color: palevioletred;
+    text-shadow: 2px 2px 5px white;
+    font-family: sans-serif;
+}
+
+.fun
+{
+    text-shadow: 2px 2px 5px white;
+    font-family: sans-serif;
+}
+
+
+a:visited{
+    color: lightpink;
+}
+
+a:link{
+    color: yellow;
+}
+
+a:hover{
+    color: darkblue;
+}
+
+a:active{
+    color:black;
